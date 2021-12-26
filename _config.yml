@@ -140,7 +140,7 @@ project_team: # 형식에 맞추어 항목 추가
 
 project_business_name: Business
 project_business: # 형식에 맞추어 항목 추가
-- background_url: images/my_business.PNG
+- background_url:
   animation: fadeInTop
   name: 
   description: >-
@@ -224,18 +224,7 @@ blog_list:
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
   thumbnail_url: images/blog-1.jpg
   link: #
-- title:
-  subtitle: 
-  date: 
-  content: 
-  thumbnail_url: 
-  link: #
-- title: 
-  subtitle: 
-  date: 
-  content:
-  thumbnail_url:
-  link: #
+
 
 
 # Contact
