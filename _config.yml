@@ -34,13 +34,13 @@ color_6: 4054b2
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/cover_bg_3
+- background_url: images/cover_bg_3.jpg
   title: 안녕하세요. <br>반갑습니다!</br>
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/img_bg_4
+- background_url: images/img_bg_4.jpg
   title: I am<br>AI Developer
   subtitle: >- 
     조금은 늦었지만<br>
@@ -115,23 +115,23 @@ project_load_more_url: #
 project_my_name: 개인프로젝트
 
 project_my: # 형식에 맞추어 항목 추가
-- background_url: images/personal_project1.PNG
+- background_url: images/personal_project1.jpg
   animation: fadeInLeft
   name: tensorflow를 이용한 자연어 처리(2021.07)
   description: 8주간의 자연어 처리 교육을 수강하며, 직접 Wordembedding, RNN,CNN, Classification, Text Similarity, SPAM분류, POS Tagging, NER 모델을 공부하였습니다.
   detail_url: #
   readmore_url: #
 
-- background_url: images/blog-1.PNG
+- background_url: images/blog-1.jpg
   animation: fadeInLeft
-  name: 개인 프로젝트 어쩌구
-  description: 설명설명 설명 설명
+  name: 개인 프로젝트 GITBLOG
+  description: 
   detail_url: #
   readmore_url: #
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/team_project3
+- background_url: images/team_project3.jpg
   animation: fadeInRight
   name: 환경적립금관리 어플리케이션 기획(2020.05)
   description: 기업,환경단체,고객을 대상으로 서로의 상관관계 파악 후, 중간자 입장에서 이익을 창출하기 위해 고민하고 어플리케이션을 기획하였습니다.이 팀프로젝트에서 SQL을 이용한 Date관리와 figma를 이용한 UI개발 분야를 담당하였습니다.
@@ -218,11 +218,11 @@ blog_header: GITBLOG
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 blog_load_more_url: #
 blog_list:
-- title: 아기치타의 AI 대학원 블로그
+- title: 따라쟁이의 GIT 개발 블로그
   subtitle: 개발 블로그 운영
-  date: 2021.01
+  date: 2021.12
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
-  thumbnail_url: images/blog-1
+  thumbnail_url: images/blog-1.jpg
   link: #
 - title:
   subtitle: 
