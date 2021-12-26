@@ -6,7 +6,7 @@ description: >-
 
 
 baseurl: ""
-url: "https://choisoeunblog.github.io"
+url: "https://choisoeungitblog.github.io"
 
 
 # profile 이미지
@@ -34,13 +34,13 @@ color_6: 4054b2
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/cover_bg_3.jpeg
+- background_url: images/cover_bg_3
   title: 안녕하세요. <br>반갑습니다!</br>
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/img_bg_4.jpg
+- background_url: images/img_bg_4
   title: I am<br>AI Developer
   subtitle: >- 
     조금은 늦었지만<br>
@@ -54,10 +54,10 @@ about_meta: About Me
 about_header: >- 
   "타자도 못치던 대학생"
 about_introduce: >-
-  "안녕하세요. 인공지능 전문가를 꿈꾸는 아기 개발자, 아기치타입니다."
+  "안녕하세요. 풀스택 전문가를 꿈꾸는 따라쟁이 개발자입니다."
 about_content: >-
-  설명설명
-  서서설명 
+  개발에 관심을 갖기 시작하고 무작정 따라하며 배워보자는 마음으로 시작하게 되었습니다.
+  
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
   name: Server
@@ -95,7 +95,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 20
   mark: 20
-  content: AWS를 서버로 활용하며, IOT 프로젝트를 해보았습니다. 현재는 도커에 대해 학습하고 있습니다.
+  content:
 - name: Github
   color: color-4
   animation: fadeInRight
@@ -117,8 +117,8 @@ project_my_name: 개인프로젝트
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/personal_project1.PNG
   animation: fadeInLeft
-  name: 딥러닝 불량품 검출(2021.04)
-  description: 실패한 공모전을 대학원 기말 프로젝트를 통해 몰랐던부분을 배우고 해결하였습니다. 공장에서 만들어내는 부품의 데이터를 통해 불량품을 검출하는 프로젝트입니다. 
+  name: tensorflow를 이용한 자연어 처리(2021.07)
+  description: 8주간의 자연어 처리 교육을 수강하며, 직접 Wordembedding, RNN,CNN, Classification, Text Similarity, SPAM분류, POS Tagging, NER 모델을 공부하였습니다.
   detail_url: #
   readmore_url: #
 
@@ -131,17 +131,10 @@ project_my: # 형식에 맞추어 항목 추가
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/team_project3.PNG
+- background_url: images/team_project3
   animation: fadeInRight
-  name: Anti-Drone_Robot(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
-  detail_url: #
-  readmore_url: #
-
-- background_url: images/team_project3.PNG
-  animation: fadeInRight
-  name: sasdasdasdsadsagjghkukt(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+  name: 환경적립금관리 어플리케이션 기획(2020.05)
+  description: 기업,환경단체,고객을 대상으로 서로의 상관관계 파악 후, 중간자 입장에서 이익을 창출하기 위해 고민하고 어플리케이션을 기획하였습니다.이 팀프로젝트에서 SQL을 이용한 Date관리와 figma를 이용한 UI개발 분야를 담당하였습니다.
   detail_url: #
   readmore_url: #
 
@@ -149,12 +142,9 @@ project_business_name: Business
 project_business: # 형식에 맞추어 항목 추가
 - background_url: images/my_business.PNG
   animation: fadeInTop
-  name: 인프런강의(2021~)
+  name: 
   description: >-
-    취준과 대학원진학을 동시에 했을때 많은 곳에서 github 주소뿐만아니라 개발 블로그주소도 요청하는데가 많았다.(물론 필수는 아니였지만) 
-    또한 교육기관(멋쟁이사자처럼,네이버 부스트 캠프, 소마등)에서도 마찬가지이다. 현재 프로그래밍의 중요도가 올라가고있으며 초등학생부터 의무교육을 시작한다고 한다. 
-    많은 비전공자들이 뒤늦게 프로그래밍을 시작하고 있다. 열심히 배우고 지원할려니 개발 블로그를 요청한다... 프로그래밍을 시작할때 알았다면 얼마나 좋았을까. 
-    공부하면서 블로그 내용을 채웠으면 참 좋았을것이다. 이런 흐름을 캐치하여 나는 개발자다운 블로그인 깃헙블로그를 만드는 짧은 강의를 만들었다. 
+   Github계정을 만들어 스스로 필요성을 느끼는 부분에 대해 꾸준히 개인 프로젝트를 진행중입니다.
   detail_url: #
   readmore_url: #
 
@@ -164,11 +154,11 @@ exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.
 exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
 exp_services: # 형식에 맞추어 항목 추가
-- name: 매니지먼트
+- name: 
   color: color-1
   icon: icon-bulb
-  content: 6개의 프로젝트 모두 팀장을 맡아 각 팀원들의 능력을 파악하고 업무를 배정하고 관리하였습니다.
-- name: 기술습득
+  content: 
+  - name: 기술습득
   color: color-2
   icon: icon-home
   content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
@@ -189,15 +179,15 @@ exp_counters:
 carerr_meta: career
 career_header: Work Career
 career_list:
-- name: 과기전통부 산학과제
-  date: 2020.06~2020.11
-  content: PlenOPtic Video에서 객체 tracking 연구  <br> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발
+- name: 
+  date: 
+  content: 
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
-- name: Voice Caddie 산학과제
-  date: 2021.05~2021.10
-  content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
+- name:
+  date:
+  content: 
   color: color-2
   icon: icon-pen2
   animation: fadeInRight
@@ -207,27 +197,24 @@ career_list:
 edu_meta: Education
 edu_header: Education
 edu_list:
-- title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
-  subtitle: 고려대 인공지능학과 대학원 석사과정
+- title: KYONGGI UNIVERSITY 
+  subtitle: 경기대 산업경영공학과
   date: 20xx.01 - 현재
-  content: 설명설명 설명글 
-- title: HANSUNG UNIVERSITY
-  subtitle: xx대학교 xx과 졸업
+  content: AI , backend&frontend 공부 중
+- title: 
+  subtitle: 
   date: 20xx.03 - 20xx.02
   content: 나에대한 간단한 설명글 
-- title: YEOUIDO HIGH SCHOOL
-  subtitle: xx고등학교
-  date: 20xx.03 - 20xx.02
+- title: Kyungan HIGH SCHOOL
+  subtitle: 경안고등학교
+  date: 2014.03 - 2017.02
   content: >-
-    설명글
-    설명글
-    설명글
-    설명글
+
 
 
 # Blog
 blog_meta: self-improvement
-blog_header: BLOG and YOUTUBE
+blog_header: GITBLOG
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 blog_load_more_url: #
 blog_list:
@@ -235,19 +222,19 @@ blog_list:
   subtitle: 개발 블로그 운영
   date: 2021.01
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
-  thumbnail_url: images/blog-1.PNG
+  thumbnail_url: images/blog-1
   link: #
-- title: 따라쟁이의 유튜브
-  subtitle: 개발,논문 유튜브 채널 운영
-  date: 2018.04
-  content: 유튜브 채널을 운영하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
-  thumbnail_url: images/blog-2.PNG
+- title:
+  subtitle: 
+  date: 
+  content: 
+  thumbnail_url: 
   link: #
-- title: 네이버블로그
-  subtitle: 이전 블로그
-  date: 2018.03
-  content: 막 복학을하고 전과했을때 시작했던 첫블로그입니다.
-  thumbnail_url: images/blog-3.PNG
+- title: 
+  subtitle: 
+  date: 
+  content:
+  thumbnail_url:
   link: #
 
 
