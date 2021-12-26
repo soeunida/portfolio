@@ -201,8 +201,7 @@ edu_list:
   subtitle: 경기대 산업경영공학과
   date: 20xx.01 - 현재
   content: AI , backend&frontend 공부 중
-- title: 
-  subtitle: 
+  
   date: 20xx.03 - 20xx.02
   content: 나에대한 간단한 설명글 
 - title: Kyungan HIGH SCHOOL
@@ -227,7 +226,7 @@ blog_list:
 
 
 
-# Contact
+# ContactFFF
 contact_meta: Get in Touch
 contact_header: Contact
 contact_list:
