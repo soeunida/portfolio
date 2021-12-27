@@ -22,9 +22,9 @@ youtube_vid: #
 
 
 # Custom Color
-primary: 2c98f0 #b72cf0
-primary_hover: 44A4F2 #9a2dc7
-color_1: 2c98f0 #b72cf0
+primary: b72cf0
+primary_hover: ec5453
+color_1: 2c98f0
 color_2: ec5453
 color_3: f9bf3f
 color_4: a84cb8
@@ -35,8 +35,11 @@ color_6: 4054b2
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_3.jpg
-  title: 안녕하세요. <br>반갑습니다!</br>
-
+  title: Choi So Eun <br> portfolio site</br> <br>withGitBlog</br>
+  position: absolute
+  transform: translate( -50%, -50% )
+  left: 200px
+  bottom: 80px
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
@@ -47,6 +50,10 @@ slider_1: # 형식에 맞추어 항목 추가
     아무것도 몰랐지만<br>
     무작정 따라하며 성장해온<br>
     초보 개발자 babycheetah입니다.
+  position: absolute
+  transform: translate( -50%, -50% )
+  left: 400px
+  bottom: 280px
 
 
 # About
@@ -56,8 +63,10 @@ about_header: >-
 about_introduce: >-
   "안녕하세요. 풀스택 전문가를 꿈꾸는 따라쟁이 개발자입니다."
 about_content: >-
-  개발에 관심을 갖기 시작하고 무작정 따라하며 배워보자는 마음으로 시작하게 되었습니다.
-  
+  <br>개발에 관심을 갖기 시작하고 무작정 따라하며 배워보자는 마음으로 시작하게 되었습니다.</br>
+  <br><strong>팀프로젝트와 개인 프로젝트를 병행하며 예기치 못한 상황에서의 대처 능력을 기르고 있습니다.</strong></br>
+  <br>팀프로젝트를 진행하며 구성원들과의 협업을 통해 결과물을 만들어냈을 때의 성취감은 이후에 다른 프로젝트를 진행하는데 주된 동기가 될 것이라고 생각합니다. </br>
+  <br>또한 개인 프로젝트는 스스로 고민하는 시간을 통해 자신의 개발 능력을 기르는데 주된 역할을 할 수 있다고 생각합니다.
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
   name: Server
@@ -67,11 +76,12 @@ about_services: # 형식에 맞추어 항목 추가
   name: App
 - icon: icon-code
   name: Python
-about_box_content: 괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+about_box_content: <strong> Developers who are constantly challenging themselves.</strong> <br>생각하는대로 개발이 흘러가는 경우보다 그렇지 않은 경우가 많기에 이에 익숙해지고 끊임없이 도전하는 것이 중요하다고 생각합니다.</br>
 about_box_button:
-  link: #
-  name: sample
+  link: http://github.com/soeunida
+  name: 꾸준히 도전하는 개발자가 되겠습니다.
 
+about_box_content_color : rgb(255,255,255)
 
 # Tech  skill
 tech_meta: TECH SKILLS
@@ -134,7 +144,7 @@ project_team: # 형식에 맞추어 항목 추가
 - background_url: images/team_project3.jpg
   animation: fadeInRight
   name: 환경적립금관리 어플리케이션 기획(2020.05)
-  description: 기업,환경단체,고객을 대상으로 서로의 상관관계 파악 후, 중간자 입장에서 이익을 창출하기 위해 고민하고 어플리케이션을 기획하였습니다.이 팀프로젝트에서 SQL을 이용한 Date관리와 figma를 이용한 UI개발 분야를 담당하였습니다.
+  description: <br>기업,환경단체,고객을 대상으로 서로의 상관관계 파악 후, 중간자 입장에서 이익을 창출하기 위해 고민하고 어플리케이션을 기획하였습니다.</br>이 팀프로젝트에서 SQL을 이용한 Date관리와 figma를 이용한 UI개발 분야를 담당하였습니다.
   detail_url: #
   readmore_url: #
 
