@@ -134,8 +134,8 @@ project_my: # 형식에 맞추어 항목 추가
 
 - background_url: images/blog-1.jpg
   animation: fadeInLeft
-  name: 개인 프로젝트 GITBLOG
-  description: 
+  name: 개인 프로젝트 GITBLOG(2021.12)
+  description: Github에 올려놓은 코드나 고민의 과정들을 더 많은 사람들에게 공유하고자 gitblog를 만들게 되었습니다. HTML과 JAVA기반으로 개발 하였습니다.
   detail_url: #
   readmore_url: #
 
@@ -209,10 +209,10 @@ edu_header: Education
 edu_list:
 - title: KYONGGI UNIVERSITY 
   subtitle: 경기대 산업경영공학과
-  date: 20xx.01 - 현재
+  date: 2019.01 - 현재
   content: AI , backend&frontend 공부 중
   
-  date: 20xx.03 - 20xx.02
+  date: 2014.03 - 2017.02
   content: 나에대한 간단한 설명글 
 - title: Kyungan HIGH SCHOOL
   subtitle: 경안고등학교
