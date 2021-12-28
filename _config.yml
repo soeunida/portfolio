@@ -59,7 +59,7 @@ slider_1: # 형식에 맞추어 항목 추가
 # About
 about_meta: About Me
 about_header: >- 
-  "타자도 못치던 대학생"
+  "호기심 많은 대학생"
 about_introduce: >-
   "안녕하세요. 풀스택 전문가를 꿈꾸는 따라쟁이 개발자입니다."
 about_content: >-
@@ -86,7 +86,7 @@ about_box_content_color : rgb(255,255,255)
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: 저는 현재 이것을 할 수 있습니다.
-tech_content: markdown으로 할수 있으면 좋을듯
+tech_content: 저의 관심 분야 입니다.
 tech_list: # 형식에 맞추어 항목 추가
 - name: Python
   color: color-1
@@ -118,9 +118,9 @@ tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javasc
 # Project
 project_meta: My Work
 project_header: PROJECT
-project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span><span>Business</span>
+project_introduce: 저의 개인 프로젝트와 팀프로젝트를 소개하겠습니다.
 project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
-project_load_more_url: #
+project_load_more_url: http://github.com/soeunida
 
 project_my_name: 개인프로젝트
 
@@ -129,15 +129,15 @@ project_my: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   name: tensorflow를 이용한 자연어 처리(2021.07)
   description: 8주간의 자연어 처리 교육을 수강하며, 직접 Wordembedding, RNN,CNN, Classification, Text Similarity, SPAM분류, POS Tagging, NER 모델을 공부하였습니다.
-  detail_url: #
-  readmore_url: #
+  detail_url: images/personal_project11.pdf
+  readmore_url: images/personal_project11.pdf
 
 - background_url: images/blog-1.jpg
   animation: fadeInLeft
   name: 개인 프로젝트 GITBLOG(2021.12)
   description: Github에 올려놓은 코드나 고민의 과정들을 더 많은 사람들에게 공유하고자 gitblog를 만들게 되었습니다. HTML과 JAVA기반으로 개발 하였습니다.
-  detail_url: #
-  readmore_url: #
+  detail_url: images/blog-11.pdf
+  readmore_url: images/blog-11.pdf
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
@@ -145,37 +145,28 @@ project_team: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   name: 환경적립금관리 어플리케이션 기획(2020.05)
   description: <br>기업,환경단체,고객을 대상으로 서로의 상관관계 파악 후, 중간자 입장에서 이익을 창출하기 위해 고민하고 어플리케이션을 기획하였습니다.</br>이 팀프로젝트에서 SQL을 이용한 Date관리와 figma를 이용한 UI개발 분야를 담당하였습니다.
-  detail_url: #
-  readmore_url: #
+  detail_url: images/team_project33.pdf
+  readmore_url: images/team_project33.pdf
 
-project_business_name: Business
-project_business: # 형식에 맞추어 항목 추가
-- background_url:
-  animation: fadeInTop
-  name: 
-  description: >-
-   Github계정을 만들어 스스로 필요성을 느끼는 부분에 대해 꾸준히 개인 프로젝트를 진행중입니다.
-  detail_url: #
-  readmore_url: #
 
 
 # Experience
 exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.
-exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+exp_content: 단순히 개발로서뿐만 아니라 다른 사람들과 함께 협업하여 문제를 해결하는 능력을 극대화 시킬 수 있는 저의 장점입니다. 
 exp_services: # 형식에 맞추어 항목 추가
-- name: 
+- name: 적극적인 소통과 협업 능력
   color: color-1
   icon: icon-bulb
-  content: 
-  - name: 기술습득
+  content: 팀 프로젝트에서 적극적인 의사 소통으로 서로의 이해관계를 파악하고 의견을 조율하는 것에 익숙합니다. 
+- name: 멈추지 않는 도전정신
   color: color-2
   icon: icon-home
   content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
-- name: 프로젝트
+- name: 필요에 의한 프로젝트 진행
   color: color-3
   icon: icon-phone3
-  content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+  content: 스스로 필요성을 느끼는 다양한 프로젝트를 기획, 진행 해왔기에 업무에 있어서도 새로운 프로젝트에 도전적입니다.
 exp_counters:
 - name: Online Class Sales
   count: 344
@@ -212,8 +203,8 @@ edu_list:
   date: 2019.01 - 현재
   content: AI , backend&frontend 공부 중
   
-  date: 2014.03 - 2017.02
-  content: 나에대한 간단한 설명글 
+  date: 2019.03 - 2023.02
+  content: 사람과 기계를 연결하는 산업공학에 흥미가 생기기 시작했습니다.
 - title: Kyungan HIGH SCHOOL
   subtitle: 경안고등학교
   date: 2014.03 - 2017.02
