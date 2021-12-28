@@ -46,10 +46,10 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg_4.jpg
   title: I am<br>AI Developer
   subtitle: >- 
-    조금은 늦었지만<br>
-    아무것도 몰랐지만<br>
-    무작정 따라하며 성장해온<br>
-    초보 개발자 babycheetah입니다.
+    단순한 호기심에서 끝나지 않고<br>
+    꾸준히 발전시키고자<br>
+    무작정 따라하며 성장하는<br>
+    개발자 최소은입니다.
   position: absolute
   transform: translate( -50%, -50% )
   left: 400px
@@ -175,23 +175,6 @@ exp_counters:
   count: 6
   speed: 5000
 
-
-# Career
-carerr_meta: career
-career_header: Work Career
-career_list:
-- name: 
-  date: 
-  content: 
-  color: color-1
-  icon: icon-pen2
-  animation: fadeInLeft
-- name:
-  date:
-  content: 
-  color: color-2
-  icon: icon-pen2
-  animation: fadeInRight
 
 
 # Education
