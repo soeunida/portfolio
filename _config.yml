@@ -35,7 +35,12 @@ color_6: 4054b2
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_4.jpg
-  title: Choi So Eun <br> portfolio site</br> <br>withGitBlog</br>
+  title: Choi So Eun <br> portfolio site</br> 
+  subtitle: >- 
+    단순한 호기심에서 끝나지 않고<br>
+    꾸준히 발전시키고자<br>
+    무작정 따라하며 성장하는<br>
+    개발자 최소은입니다.
   position: absolute
   transform: translate( -50%, -50% )
   left: 200px
