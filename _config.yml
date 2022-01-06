@@ -210,7 +210,7 @@ blog_load_more_url: https://sites.google.com/view/dmininglab/home
 blog_list:
 - title: 4학년 학부 연구생으로 2021년부터 연구를 함께 진행하였습니다.
   subtitle: lab 세미나 참여와 연구를 도왔습니다.
-  date: 2021.12
+  date: 2022-01
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 github를 운영해오고 있습니다.
   thumbnail_url: images/img_bg_5.jpg
   link: http://github.com/soeunida
