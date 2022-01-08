@@ -201,18 +201,21 @@ exp_counters:
 
 
 # certificate
-edu_meta1: Certificate
-edu_header1: Certificate
-edu_list:
+certificate_meta: Certificate
+certificate_header: Certificate
+blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
+certificate_list:
 - title: 정보처리산업기사
   subtitle: 산업인력공단
   date: 2018.03.16 - 2018.11
-  content: >- 자격번호 : 18203101837R 
+  content: 자격번호  18203101837R 
+  thumbnail_url: images/img_bg_6.jpg
+
 - title: 네트워크관리사2급
   subtitle: 한국정보통신자격협회
   date: 2017.07.01 - 2017.12.19
-  content: >- 자격번호 : NT2040627
-
+  content:  자격번호  NT2040627
+  thumbnail_url: images/certificate_bg.png
 
 
 # Education
@@ -223,7 +226,6 @@ edu_list:
   subtitle: 경기대 산업경영공학과
   date: 2019.01 - 현재
   content: AI , backend&frontend 공부 중
-  
   date: 2019.03 - 2023.02
   content: 사람과 기계를 연결하는 산업공학에 흥미가 생기기 시작했습니다.
 - title: Kyungan HIGH SCHOOL
