@@ -76,7 +76,7 @@ about_content: >-
   <br><strong>💡아무것도 몰랐을때 따라하면서 배워보자라는 생각으로 🔎따라쟁이🔎라 지었습니다.💡</strong></br>
   <br><strong>제 👀**관심분야**는 다음과 같습니다. <strong></br>
   <br> 📋 Machine Learning, Deep Learning </br>
-  <br><strong>저에게 조금 관심이 생기셨다면 [CV](/images/cv.pdf)를 확인해주시면 감사하겠습니다!😃</strong></br>
+  <br><strong>저에게 조금 관심이 생기셨다면 [CV](/pdf/cv.pdf)를 확인해주시면 감사하겠습니다!😃</strong></br>
   <br>개발에 관심을 갖기 시작하고 무작정 따라하며 배워보자는 마음으로 시작하게 되었습니다.</br>
   <br><strong>팀프로젝트와 개인 프로젝트를 병행하며 예기치 못한 상황에서의 대처 능력을 기르고 있습니다.</strong></br>
   <br>팀프로젝트를 진행하며 구성원들과의 협업을 통해 결과물을 만들어냈을 때의 성취감은 이후에 다른 프로젝트를 진행하는데 주된 동기가 될 것이라고 생각합니다. </br>
@@ -201,16 +201,17 @@ exp_counters:
 
 
 # certificate
-blog_meta: self-improvement
-blog_header: Certificate
-blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
-blog_list: # 형식에 맞추어 항목 추가
+certificate_meta: self-improvement
+certificate_header: Certificate
+certificate_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
+certificate_list: # 형식에 맞추어 항목 추가
 - title: 정보처리산업기사
   subtitle: 산업인력공단
   date: 2018.03.16 - 2018.11
   content: 자격번호  18203101837R 
   thumbnail_url: images/img_bg_6.jpg
   link: images/img_bg_6.jpg
+
 - title: 네트워크관리사2급
   subtitle: 한국정보통신자격협회
   date: 2017.07.01 - 2017.12.19
