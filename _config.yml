@@ -218,6 +218,7 @@ certificate_list: # 형식에 맞추어 항목 추가
   content:  자격번호  NT2040627
   thumbnail_url: images/certificate_bg.png
   link:  images/certificate_bg.png
+  
 
 # Education
 edu_meta: Education
