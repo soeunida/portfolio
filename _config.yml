@@ -201,22 +201,22 @@ exp_counters:
 
 
 # certificate
-certificate_meta: Certificate
-certificate_header: Certificate
+blog_meta: self-improvement
+blog_header: Certificate
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
-certificate_list:
+blog_list: # 형식에 맞추어 항목 추가
 - title: 정보처리산업기사
   subtitle: 산업인력공단
   date: 2018.03.16 - 2018.11
   content: 자격번호  18203101837R 
   thumbnail_url: images/img_bg_6.jpg
-
+  link: images/img_bg_6.jpg
 - title: 네트워크관리사2급
   subtitle: 한국정보통신자격협회
   date: 2017.07.01 - 2017.12.19
   content:  자격번호  NT2040627
   thumbnail_url: images/certificate_bg.png
-
+  link:  images/certificate_bg.png
 
 # Education
 edu_meta: Education
