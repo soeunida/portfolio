@@ -10,7 +10,7 @@ url: "https://choisoeungitblog.github.io"
 
 
 # profile 이미지
-profile_image: images/about.jpg
+profile_image: images/about1.jpg
 
 
 # SNS 아이디
@@ -133,7 +133,7 @@ project_my: # 형식에 맞추어 항목 추가
 - background_url: images/personal_project1.jpg
   animation: fadeInLeft
   name: tensorflow를 이용한 자연어 처리(2021.07)
-  description: 8주간의 자연어 처리 교육을 수강하며, 직접 Wordembedding, RNN,CNN, Classification, Text Similarity, SPAM분류, POS Tagging, NER 모델을 공부하였습니다.
+  description: 8주간의 자연어 처리 교육을 수강하며, 직접 Wordembedding, RNN,CNN, Classification, Text Similarity, SPAM분류, POS Tagging, NER 모델을 공부하였습니다.자연어를 분석하여 인공어로 처리하는 기술이 마치 인간과 컴퓨터 사이의 통역사 같은 역할을 하는 것 같았습니다. 프로젝트를 수행하며 MODELING과정에서 겪었던 어려움에 대해 더욱 깊이 있는 고찰을 위해 tensorflow 활용과 리눅스, 하둡에 대한 이론 지식 학습을 위해 함께 교육을 진행했던 사람들과 스터디를 진행중입니다. 
   detail_url: images/personal_project11.pdf
   readmore_url: images/personal_project11.pdf
 
@@ -153,9 +153,14 @@ project_team: # 형식에 맞추어 항목 추가
   detail_url: images/team_project33.pdf
   readmore_url: images/team_project33.pdf
 
-
-
-
+project_business_name: Business
+project_business: # 형식에 맞추어 항목 추가
+- background_url: images/img_bg_5.jpg
+  animation: fadeInRight
+  name: Data mining Lab소속 학부연구생(2022.01)
+  description: <br>소속 연구실에서 Deep learning을 이용한 Lap seminar를 진행하며 더욱 깊이 있는 고찰을 진행할 수 있었습니다.</br>
+  detail_url: https://sites.google.com/view/dmininglab/home
+  readmore_url: https://sites.google.com/view/dmininglab/home
 
 
 
@@ -202,18 +207,6 @@ edu_list:
   date: 2014.03 - 2017.02
   content: >-
 
-# Bussiness
-blog_meta: self-improvement
-blog_header: 학부 연구생 활동
-blog_load_more: 2021-01-01 ~     # 더보기 내용
-blog_load_more_url: https://sites.google.com/view/dmininglab/home
-blog_list:
-- title: 4학년 학부 연구생으로 2021년부터 연구를 함께 진행하였습니다.
-  subtitle: lab 세미나 참여와 연구를 도왔습니다.
-  date: 2022-01
-  content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 github를 운영해오고 있습니다.
-  thumbnail_url: images/img_bg_5.jpg
-  link: http://github.com/soeunida
 
 
 
