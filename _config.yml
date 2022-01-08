@@ -218,7 +218,7 @@ certificate_list: # 형식에 맞추어 항목 추가
   content:  자격번호  NT2040627
   thumbnail_url: images/certificate_bg.png
   link:  images/certificate_bg.png
-  
+
 
 # Education
 edu_meta: Education
@@ -251,6 +251,8 @@ blog_list:
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 github를 운영해오고 있습니다.
   thumbnail_url: images/blog-4.jpg
   link: http://github.com/soeunida
+
+
 
 
 
